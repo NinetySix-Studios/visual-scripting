@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace NinetySix
 {
+    /// <summary>
+    /// Executes a series of commands on a player game object.
+    /// </summary>
     public class CommandExecutor : MonoBehaviour
     {
         [SerializeField]
